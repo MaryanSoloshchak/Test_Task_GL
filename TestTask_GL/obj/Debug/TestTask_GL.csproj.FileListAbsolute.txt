@@ -1,0 +1,9 @@
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\bin\Debug\TestTask_GL.exe.config
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\bin\Debug\TestTask_GL.exe
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\bin\Debug\TestTask_GL.pdb
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\obj\Debug\TestTask_GL.csprojResolveAssemblyReference.cache
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\obj\Debug\TestTask_GL.Form1.resources
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\obj\Debug\TestTask_GL.Properties.Resources.resources
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\obj\Debug\TestTask_GL.csproj.GenerateResource.Cache
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\obj\Debug\TestTask_GL.exe
+c:\users\solos\documents\visual studio 2017\Projects\TestTask_GL\TestTask_GL\obj\Debug\TestTask_GL.pdb
